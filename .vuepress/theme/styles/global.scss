@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap");
+
+html,
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Arial, "ヒラギノ角ゴ Pro W3",
+    "Hiragino Kaku Gothic ProN", "Hiragino Sans", "游ゴシック", "Yu Gothic",
+    "游ゴシック体", "YuGothic", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック",
+    "MS P Gothic", sans-serif;
+  color: #111;
+  font-size: 15px;
+  line-height: 1.85;
+}
+
+.theme-content {
+  max-width: 700px;
+  width: calc(100vw - 40px);
+  margin: auto;
+
+  a {
+    color: #0074e4;
+    text-decoration: none;
+
+    &:hover {
+      color: #0074e4;
+      text-decoration: underline;
+    }
+  }
+
+  h1 {
+    font-size: 2.2rem;
+    line-height: 1.4em;
+    margin-top: 3em;
+  }
+
+  h2 {
+    font-size: 1.65rem;
+    margin-top: 2em;
+  }
+
+  * > .header-anchor {
+    margin-left: -0.87em;
+    padding-right: 0.05em;
+    font-size: 0.85em;
+    margin-top: 0.125em;
+    opacity: 0;
+    color: #888;
+  }
+
+  *:hover > .header-anchor {
+    opacity: 1;
+  }
+
+  img {
+    width: 100%;
+    margin: 30px auto;
+  }
+
+  .table-of-contents {
+    background-color: #eee;
+    margin: 20px 0;
+    padding: 15px;
+    border-top: 5px solid #888;
+
+    a {
+      color: #333;
+      font-weight: bold;
+    }
+  }
+}
