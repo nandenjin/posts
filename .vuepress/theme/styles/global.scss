@@ -56,6 +56,18 @@ body {
     margin: 30px auto;
   }
 
+  figure {
+    margin: 30px auto;
+
+    img {
+      margin: 0;
+    }
+  }
+
+  figcaption {
+    font-size: 0.85em;
+  }
+
   .table-of-contents {
     background-color: #eee;
     margin: 20px 0;
