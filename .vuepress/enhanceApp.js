@@ -13,7 +13,7 @@ export default ({
   if (process.env.NODE_ENV === "production" && typeof window !== "undefined") {
     const script = document.createElement("script");
     script.setAttribute(
-      src,
+      "src",
       "https://www.googletagmanager.com/gtag/js?id=G-8238NS9X3Y"
     );
     script.setAttribute("async", "async");
