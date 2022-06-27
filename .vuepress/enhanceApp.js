@@ -10,11 +10,7 @@ export default ({
   router, // the router instance for the app
   siteData, // site metadata
 }) => {
-  if (
-    process.env.NODE_ENV === "production" &&
-    GA_ID &&
-    typeof window !== "undefined"
-  ) {
+  if (process.env.NODE_ENV === "production" && typeof window !== "undefined") {
     const script = document.createElement("script");
     script.setAttribute(
       src,
