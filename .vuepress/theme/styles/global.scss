@@ -9,7 +9,7 @@ body {
     "MS P Gothic", sans-serif;
   color: #111;
   font-size: 15px;
-  line-height: 1.85;
+  line-height: 2;
 }
 
 .theme-content {
@@ -66,5 +66,30 @@ body {
       color: #333;
       font-weight: bold;
     }
+  }
+
+  blockquote {
+    margin: 2em 0;
+    padding: 1em 2em;
+    background-color: #eee;
+  }
+
+  .footnotes-sep {
+    height: 1px;
+    margin-top: 3em;
+    background-color: #ccc;
+    border: none;
+  }
+
+  .footnotes {
+    font-size: 0.8rem;
+  }
+
+  .footnotes-list {
+    padding: 0 0 0 2rem;
+  }
+
+  .footnote-item p:first-child {
+    margin-top: 0;
   }
 }
