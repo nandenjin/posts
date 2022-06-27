@@ -14,7 +14,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.48",
     "sass": "1.53.0",
     "sass-loader": "10.2.1",
     "vuepress": "1.9.7"
@@ -22,8 +21,5 @@
   "private": true,
   "dependencies": {
     "markdown-it-footnote": "^3.0.3"
-  },
-  "resolutions": {
-    "vue": "2"
   }
 }

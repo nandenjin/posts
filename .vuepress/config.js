@@ -1,4 +1,3 @@
-const { googleAnalyticsPlugin } = require("@vuepress/plugin-google-analytics");
 const { description } = require("../package");
 
 module.exports = {
@@ -51,9 +50,6 @@ module.exports = {
         selector: ".theme-content img",
       },
     ],
-    googleAnalyticsPlugin({
-      id: "G-8238NS9X3Y",
-    }),
   ],
 
   markdown: {
