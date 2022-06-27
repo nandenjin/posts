@@ -18,5 +18,8 @@
     "sass-loader": "10.2.1",
     "vuepress": "1.9.7"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "markdown-it-footnote": "^3.0.3"
+  }
 }
