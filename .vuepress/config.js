@@ -50,6 +50,9 @@ module.exports = {
         selector: ".theme-content img",
       },
     ],
+    require("@vuepress/plugin-google-analytics")({
+      id: "G-8238NS9X3Y",
+    }),
   ],
 
   markdown: {
