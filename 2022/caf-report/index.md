@@ -46,7 +46,7 @@
   <img src="./broken-wagon-kitasenju.jpg" alt="コンクリートの床で台車を修理する女性">
 <figure>
   <img src="./broken-wagon-kitasenju-wideview.jpg" alt="駅構内の広場で荷物を広げている場面の遠景">
-  <figcaption>輸送便に間に合わなかった資材をそのへんで拾った台車でつくばエクスプレスに積んだらキャスターが崩壊、北千住駅の改札前で修理する図（w/<a href="https://twitter.com/eimaeda_" target="_blank" rel="noreferrer noopener">@eimaeda</a>）</figcaption>
+  <figcaption>輸送便に間に合わなかった資材をそのへんで拾った台車でつくばエクスプレスに積んだらキャスターが崩壊、北千住駅の改札前で修理する図（w/<a href="https://twitter.com/eimaeda_" target="_blank" rel="noreferrer noopener">@eimaeda_</a>）</figcaption>
 </figure>
 
 これは稲田特有の事情ですが、応募した作品が死ぬほど巨大（というか建築物）ゆえ実物を持っていくことができず、通過の連絡をいただくと同時に新作制作か？というような膨大な作業に追われることになりました。別に映像展示でもダメなことはないのですが、 **「せっかくリアルな空間を使うんだから、なにか実物に対面できる方がよいだろう」** という判断をしたということです。
