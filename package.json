@@ -16,7 +16,8 @@
   "devDependencies": {
     "sass": "1.55.0",
     "sass-loader": "10.3.1",
-    "vuepress": "1.9.7"
+    "vuepress": "1.9.7",
+    "vuepress-plugin-sitemap": "^2.3.1"
   },
   "private": true,
   "dependencies": {

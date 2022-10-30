@@ -50,6 +50,16 @@ module.exports = {
         selector: ".theme-content img",
       },
     ],
+    [
+      "sitemap",
+      {
+        hostname: "https://posts.nandenjin.com",
+        exclude: [
+          // https://github.com/ekoeryanto/vuepress-plugin-sitemap/issues/35
+          "/404.html",
+        ],
+      },
+    ],
   ],
 
   markdown: {
