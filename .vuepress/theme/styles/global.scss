@@ -9,7 +9,7 @@ body {
     "MS P Gothic", sans-serif;
   color: #111;
   font-size: 15px;
-  line-height: 2;
+  line-height: 2em;
 }
 
 .theme-content {
@@ -100,6 +100,7 @@ body {
 
   .footnotes {
     font-size: 0.8rem;
+    line-height: 2em;
   }
 
   .footnotes-list {
