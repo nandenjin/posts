@@ -10,10 +10,12 @@
   "repository": "https://github.com/nandenjin/posts.git/@nandenjin/posts",
   "scripts": {
     "dev": "vuepress dev .",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "format": "prettier --write '**/*.{js,md,vue,yaml,yml}'"
   },
   "license": "MIT",
   "devDependencies": {
+    "prettier": "^2.8.0",
     "sass": "1.56.1",
     "sass-loader": "10.4.1",
     "vuepress": "1.9.7",
