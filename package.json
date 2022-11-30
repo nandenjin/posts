@@ -9,9 +9,9 @@
   },
   "repository": "https://github.com/nandenjin/posts.git/@nandenjin/posts",
   "scripts": {
-    "dev": "vuepress dev .",
-    "build": "vuepress build .",
-    "format": "prettier --write '**/*.{js,md,vue,yaml,yml}'",
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev .",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build .",
+    "format": "prettier --write '**/*.{js,md,vue,yaml,yml,json}'",
     "prepare": "husky install"
   },
   "license": "MIT",
@@ -29,6 +29,6 @@
     "markdown-it-footnote": "3.0.3"
   },
   "lint-staged": {
-    "*.{js,md,vue,yaml,yml}": "prettier --write"
+    "*.{js,md,vue,yaml,yml,json}": "prettier --write"
   }
 }
