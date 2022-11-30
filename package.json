@@ -10,10 +10,15 @@
   "repository": "https://github.com/nandenjin/posts.git/@nandenjin/posts",
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev .",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build ."
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build .",
+    "format": "prettier --write '**/*.{js,md,vue,yaml,yml,json}'",
+    "prepare": "husky install"
   },
   "license": "MIT",
   "devDependencies": {
+    "husky": ">=7",
+    "lint-staged": ">=10",
+    "prettier": "^2.8.0",
     "sass": "1.56.1",
     "sass-loader": "10.4.1",
     "vuepress": "1.9.7",
@@ -22,5 +27,8 @@
   "private": true,
   "dependencies": {
     "markdown-it-footnote": "3.0.3"
+  },
+  "lint-staged": {
+    "*.{js,md,vue,yaml,yml,json}": "prettier --write"
   }
 }
