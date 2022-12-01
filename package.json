@@ -8,6 +8,10 @@
     "email": "hello@nandenjin.com"
   },
   "repository": "https://github.com/nandenjin/posts.git/@nandenjin/posts",
+  "engines": {
+    "node": "18"
+  },
+  "private": true,
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev .",
     "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build .",
@@ -24,7 +28,6 @@
     "vuepress": "1.9.7",
     "vuepress-plugin-sitemap": "^2.3.1"
   },
-  "private": true,
   "dependencies": {
     "markdown-it-footnote": "3.0.3"
   },
