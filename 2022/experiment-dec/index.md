@@ -37,6 +37,8 @@
 - **複数人でいっしょに参加することができます。** 申込みフォームの人数欄にご記入ください。
 - **参加できる回がなくてもフォームに記入できます。** 開催回の追加や、今後同様のイベントがある際にご案内します。
 
+筑波大学内での参加を想定していますが、学外からの参加ご希望があればお問い合わせください。
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSetPzclSJG6IbUR-mwoEdo5jAyAYl_On2Ewdy3gBwAcTj12jsgzNd23__nidYsxufWvCFz6SEONS9V/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true" style="width: 100%; height: 350px; border: 1px solid #ddd; border-radius: 10px; "></iframe>
 
 [**申込みフォーム**](https://docs.google.com/forms/d/e/1FAIpQLSdByrmJk9TaJDkhFtVF8QkMW8GdfiCtimGzR-JVR_OeH3nrRw/viewform)をごらんください。質問・相談は、最下部の連絡先や[Twitter:@nandenjin](https://twitter.com/nandenjin)、筑波大学 Teams `稲田和巳` へお気軽にどうぞ。
