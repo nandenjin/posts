@@ -79,6 +79,8 @@ docker run --rm -v $(realpath ./../../../):/src -u $(id -u):$(id -g) \
 
 なお最初のエラーにあるように`-sERROR_ON_UNDEFINED_SYMBOLS=0`を使えばよいのかもしれませんが、未検証です。
 
+**Update (23.06.18):** [`openfameworks/openFrameworks#7056`](https://github.com/openframeworks/openFrameworks/pull/7056)が、2022 年 11 月 19 日に merge されました。この oF 本体の対応により、Emscripten 3.1.21 までの環境でビルドが可能になったものと思われます。ただし現在、これを取り込んだバージョンはまだリリースされていないようなので、`oF > 0.11.2`を待つか、GitHub のコードを使う必要があります。また、筆者はこれについて一切の検証をしていません。
+
 ## `RuntimeError: abort(OOM)`
 
 ブラウザで起動すると WASM から投げられるエラーです。`OOM` = Out of memory であり、ビルド時に設定する割当てメモリ量が不足していました。なお oF が設定するデフォルトのメモリ量は 128MiB のようです[^1]。
@@ -199,6 +201,8 @@ Emscripten のリポジトリには Shell file の最小限の実装例がある
 ちなみに今回[個人的に書き直した Shell file はこちら](https://gist.github.com/nandenjin/12e5aec866cf9be638a85d39e6e153a6#file-template-html)。展示の目的で作っているので、キャンバスを全画面にし、標準出力は用意していません。
 
 （しっかり検証できていませんが、試した限り、たとえサンプルそのままのファイルでも progress update が 1 回も発火しなかったり、oF 版のテンプレートは実装が間違っているように見える箇所[^3]があったりと、なにか混沌とした雰囲気を感じます……）
+
+**Update (23.06.18):** [`openfameworks/openFrameworks#7056`](https://github.com/openframeworks/openFrameworks/pull/7056)にて、筆者が指摘していた誤実装[^3]は修正されました。次期バージョン（`oF > 0.11.2`）で取り込まれるものと思われます。
 
 [^3]: [`/libs/openFrameworksCompiled/project/emscripten/template.html#L183-184`](https://github.com/openframeworks/openFrameworks/blob/0.11.2/libs/openFrameworksCompiled/project/emscripten/template.html#L183-L184) : 30ms より近い間隔で発火したものを無視したいと思われるが、意味のない比較をしているように見える。 [Emscripten の実装](https://github.com/emscripten-core/emscripten/blob/1.40.0/src/shell_minimal.html#L114-L115) は正しいように思える
 
