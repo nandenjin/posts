@@ -81,13 +81,38 @@ body {
   }
 
   blockquote {
-    margin: 2em 0;
-    padding: 1em 2em;
+    margin: 0.5em;
+    padding: 0.1px 1em;
     background-color: #eee;
   }
 
+  *:not(li) > blockquote {
+    margin: 2em 0;
+    padding: 1em 2em;
+  }
+
+  table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+  }
+
+  thead {
+    background-color: #eee;
+  }
+
+  th,
+  td {
+    padding: 0.2em 0.5em;
+    border: 1px solid #ccc;
+  }
+
   code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New,
+    font-family:
+      source-code-pro,
+      Menlo,
+      Monaco,
+      Consolas,
+      Courier New,
       monospace;
   }
 
