@@ -18,10 +18,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20.x
-          cache: yarn
+          cache: npm
 
-      - name: Install and build
-        run: yarn --frozen-lockfile
-
-      - name: Build
-        run: yarn run build
+      - run: npm ci
+      - run: npm run build
