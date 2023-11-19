@@ -6,8 +6,8 @@ const GTAG_ID = "G-8238NS9X3Y";
 
 export default defineConfig({
   title: "Kazumi Inada",
-
   description,
+  lang: "ja-JP",
 
   head: [
     ["meta", { name: "theme-color", content: "#3eaf7c" }],
