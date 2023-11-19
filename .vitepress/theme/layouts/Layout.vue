@@ -19,3 +19,7 @@ export default {
   },
 };
 </script>
+
+<style lang="scss">
+@import "../styles/index.css";
+</style>

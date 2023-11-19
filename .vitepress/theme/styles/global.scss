@@ -136,3 +136,75 @@ body {
     margin-top: 0;
   }
 }
+
+// Inline code
+:not(pre) > code {
+  background-color: #eee;
+  border-radius: 4px;
+  padding: 3px 6px;
+}
+
+// Code block
+[class*="language-"] {
+  position: relative;
+  background-color: #333;
+  border-radius: 8px;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  text-align: left;
+  font-size: 0.9em;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  overflow-x: auto;
+
+  button.copy {
+    appearance: none;
+    position: absolute;
+    z-index: 3;
+    top: 15px;
+    right: 15px;
+    width: 6em;
+    height: 2em;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(127, 127, 127, 0.5);
+    color: #fff;
+    opacity: 0;
+    transition: opacity 0.3s ease 0s;
+
+    &::before {
+      content: "Copy";
+      display: inline;
+    }
+
+    &.copied {
+      background-color: rgba(127, 127, 127, 0.8);
+      &::before {
+        content: "Copied";
+      }
+    }
+  }
+
+  .lang {
+    position: absolute;
+    top: 2px;
+    right: 15px;
+    z-index: 2;
+    font-size: 12px;
+    font-weight: 500;
+    color: #888;
+    transition: opacity 0.3s ease 0s;
+  }
+
+  &:hover {
+    button.copy {
+      opacity: 1;
+    }
+
+    .lang {
+      opacity: 0;
+    }
+  }
+}
