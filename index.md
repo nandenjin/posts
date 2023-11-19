@@ -6,4 +6,4 @@ sitemap:
   exclude: true
 ---
 
-This page should be redirected to https://www.nandenjin.com. See `.vuepress/public/_redirects`.
+Dev memo: This page should be redirected to https://www.nandenjin.com. See netlify config.
