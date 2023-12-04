@@ -37,6 +37,14 @@ export default defineConfig({
       gtag("js", new Date());
       gtag("config", "G-8238NS9X3Y");`,
     ],
+    [
+      "script",
+      {
+        id: "twitter-widgets",
+        async: true,
+        src: "https://platform.twitter.com/widgets.js",
+      },
+    ],
   ],
 
   sitemap: {
