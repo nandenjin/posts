@@ -26,7 +26,7 @@
     "prettier": "^3.0.0",
     "sass": "1.80.3",
     "sass-loader": "16.0.2",
-    "stylus": "^0.63.0",
+    "stylus": "^0.64.0",
     "vitepress": "^1.0.0-rc.29"
   },
   "dependencies": {
