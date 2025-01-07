@@ -10,7 +10,7 @@
   },
   "repository": "https://github.com/nandenjin/posts.git/@nandenjin/posts",
   "engines": {
-    "node": "20"
+    "node": "22"
   },
   "private": true,
   "scripts": {
