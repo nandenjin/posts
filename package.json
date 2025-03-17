@@ -24,7 +24,7 @@
     "husky": ">=7",
     "lint-staged": ">=10",
     "prettier": "^3.0.0",
-    "sass": "1.85.1",
+    "sass": "1.86.0",
     "sass-loader": "16.0.5",
     "stylus": "^0.64.0",
     "vitepress": "^1.0.0-rc.29"
