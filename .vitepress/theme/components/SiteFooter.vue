@@ -7,6 +7,6 @@
   text-align: center;
   font-size: 0.8rem;
   margin: 80px auto;
-  color: #888;
+  color: #555;
 }
 </style>
