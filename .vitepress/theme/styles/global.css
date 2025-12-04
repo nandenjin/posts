@@ -1,10 +1,10 @@
 html,
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Arial, "ヒラギノ角ゴ Pro W3",
-    "Hiragino Kaku Gothic ProN", "Hiragino Sans", "游ゴシック", "Yu Gothic",
-    "游ゴシック体", "YuGothic", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック",
-    "MS P Gothic", sans-serif;
+  font-family:
+    "Helvetica Neue", Arial, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans", "游ゴシック", "Yu Gothic", "游ゴシック体", "YuGothic",
+    "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS P Gothic", sans-serif;
   color: #111;
   font-size: 15px;
   line-height: 2em;
@@ -16,13 +16,9 @@ body {
   margin: auto;
 
   a {
-    color: #0074e4;
-    text-decoration: none;
-
-    &:hover {
-      color: #0074e4;
-      text-decoration: underline;
-    }
+    color: #05a;
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
   }
 
   h1 {
@@ -74,6 +70,7 @@ body {
 
     a {
       color: #333;
+      text-decoration: none;
       font-weight: bold;
     }
   }
