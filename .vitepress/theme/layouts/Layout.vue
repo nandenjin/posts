@@ -1,9 +1,9 @@
 <template>
   <div>
     <SiteHeader />
-    <div class="theme-content">
+    <main class="theme-content" role="main">
       <Content />
-    </div>
+    </main>
     <SiteFooter />
   </div>
 </template>

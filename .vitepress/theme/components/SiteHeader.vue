@@ -1,5 +1,5 @@
 <template>
-  <header class="site-header">
+  <header class="site-header" role="banner">
     <a href="https://www.nandenjin.com" class="logo">Kazumi Inada</a>
     <div class="back">
       <a href="https://www.nandenjin.com">Back to Portfolio</a>

@@ -1,5 +1,5 @@
 <template>
-  <footer class="site-footer">&copy; Kazumi Inada</footer>
+  <footer class="site-footer" role="contentinfo">&copy; Kazumi Inada</footer>
 </template>
 
 <style lang="scss" scoped>
