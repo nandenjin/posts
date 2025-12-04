@@ -7,9 +7,7 @@
   </header>
 </template>
 
-<style lang="scss" scoped>
-@use "../styles/media.scss";
-
+<style scoped>
 .site-header {
   display: grid;
   grid-template-columns: 200px auto;
@@ -17,7 +15,7 @@
   width: calc(100vw - 100px);
   font-family: "Questrial", sans-serif;
 
-  @include media.mq {
+  @media (max-width: 600px) {
     margin: 50px auto;
     width: calc(100vw - 40px);
   }
@@ -41,7 +39,7 @@
       font-size: 0.9rem;
     }
 
-    @include media.mq {
+    @media (max-width: 600px) {
       display: none;
     }
   }

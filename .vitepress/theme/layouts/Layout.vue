@@ -20,6 +20,6 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style>
 @import "../styles/index.css";
 </style>

@@ -23,10 +23,7 @@
   "devDependencies": {
     "lint-staged": ">=10",
     "prettier": "3.0.0",
-    "sass": "1.94.2",
-    "sass-loader": "16.0.6",
     "simple-git-hooks": "2.13.1",
-    "stylus": "0.64.0",
     "vitepress": "1.0.0-rc.29"
   },
   "dependencies": {
