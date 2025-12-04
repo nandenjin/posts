@@ -12,10 +12,19 @@
 
   .logo {
     display: inline-block;
-    width: 200px;
-    height: 30px;
+    aspect-ratio: 300 / 26;
+    height: 18px;
     background: url("../assets/kazumi-inada.svg") center/contain no-repeat;
     text-indent: -100vw;
+  }
+
+  @media screen and (max-width: 750px) {
+    margin: 40px auto;
+    width: calc(100vw - 40px);
+
+    .logo {
+      height: 15px;
+    }
   }
 }
 </style>
