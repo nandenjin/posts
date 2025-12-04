@@ -27,7 +27,7 @@
     "sass-loader": "16.0.6",
     "simple-git-hooks": "2.13.1",
     "stylus": "0.64.0",
-    "vitepress": "1.0.0-rc.29"
+    "vitepress": "1.6.4"
   },
   "dependencies": {
     "markdown-it-footnote": "4.0.0"
