@@ -2,7 +2,7 @@
   <footer class="site-footer" role="contentinfo">&copy; Kazumi Inada</footer>
 </template>
 
-<style lang="scss" scoped>
+<style scoped>
 .site-footer {
   text-align: center;
   font-size: 0.8rem;
