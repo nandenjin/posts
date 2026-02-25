@@ -49,9 +49,9 @@
 
 言葉によって注目すべきポイントを解説するということもできます。奈良国立博物館が所蔵する[十二神将立像](https://www.narahaku.go.jp/collection/858-0.html)の展示を例に挙げます。
 
-十二神将というのは薬師如来を囲んで守る役割を持つ仏ですが、よく見るとそれぞれに何やら個性的なポーズや装いがあることが分かります。博物館ではこの作品について次のような解説文を設けています。
+十二神将というのは薬師如来を囲んで守る役割を持つ仏ですが、よく見るとそれぞれに何やら個性的なポーズや装いがあることが分かります。博物館ではこの作品について次のような解説文を[設けています](https://www.narahaku.go.jp/collection/858-0.html#:~:text=%E8%A1%A8%E6%83%85%E3%82%84%E8%BA%AB%E6%8C%AF%E3%82%8A%E3%81%AB%E5%B0%91%E3%81%97%E3%81%9A%E3%81%A4%E5%A4%89%E5%8C%96%E3%82%92%E3%81%A4%E3%81%91%E3%81%AA%E3%81%8C%E3%82%89%E8%BB%BD%E5%A6%99%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E6%A7%8B%E6%88%90%E3%81%AF%E5%B7%A7%E3%81%BF%E3%81%A7%E3%80%81%E9%A0%AD%E4%B8%8A%E3%81%AB%E6%88%B4%E3%81%84%E3%81%9F%E5%8D%81%E4%BA%8C%E6%94%AF%E7%8D%A3%E3%81%AE%E6%80%A7%E6%A0%BC%E3%82%92%E9%9D%A2%E7%9B%B8%E3%81%AB%E6%8A%95%E5%BD%B1%E3%81%95%E3%81%9B%E3%82%8B%E6%89%8B%E6%B3%95%E3%82%82%E5%8A%B9%E6%9E%9C%E3%82%92%E3%81%82%E3%81%92%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82)。
 
-> 表情や身振りに少しずつ変化をつけながら軽妙にまとめる構成は巧みで、頭上に戴（いただ）いた十二支獣の性格を面相に投影させる手法も効果をあげている
+> 表情や身振りに少しずつ変化をつけながら軽妙にまとめる構成は巧みで、頭上に<ruby>戴<rp>（</rp><rt>いただ</rt><rp>）</rp></ruby>いた十二支獣の性格を面相に投影させる手法も効果をあげている。
 
 作品の注目すべき特徴を示すことでより意義ある鑑賞ができるようになっているのではないでしょうか。
 
@@ -61,7 +61,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zlt1g2Sn28Q" title="「マーク・マンダース —マーク・マンダースの不在」展（展示風景）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16 / 9"></iframe>
 
-彼は自分の作品のことを「建物としての自画像」と呼び、その言葉を使って作品について次のように述べています。
+彼は自分の作品のことを「建物としての自画像」と呼び、その言葉を使って作品について次のように述べています（[PDF: 同展ハンドアウト](https://www.mot-art-museum.jp/exhibitions/handout_mm.pdf)）。
 
 > 建物としての自画像は時間がすべて凍結しています。私の作品、私にとってすべての作品は同じ瞬間に存在します。
 
@@ -131,6 +131,26 @@
 
 - グループでの作品制作・展示の企画
 - ノウハウや知識を共有するための勉強会・ライトニングトークの開催
+
+<figure>
+  <img src="./monoshiritori.jpg" alt="">
+  <figcaption>モノシリトリ（2017）企画キックオフの様子</figcaption>
+</figure>
+
+<figure>
+  <img src="./mastival.jpg" alt="">
+  <figcaption><a href="https://mastival.netlify.app/">創成学類作品展mAstival</a>（2019）設営の様子</figcaption>
+</figure>
+
+<figure>
+  <img src="./saikoh.jpg" alt="">
+  <figcaption><a href="https://live.saikoh.uk/">最高プレゼンライブ</a>（2017）</figcaption>
+</figure>
+
+<figure>
+  <img src="./shibuki.jpg" alt="">
+  <figcaption>TParty<a href="https://www.youtube.com/watch?v=tRubYTfBBGc">《シブキ》</a>（2021）</figcaption>
+</figure>
 
 そして稲田はまさに、こういった環境の恩恵を受けて個人の活動の場所を広げてきました。結果として現代美術の分野で全国的な賞をいただいたり、また専門的なクリエイティブの実務の機会を得たりといった経験を積むことができました。
 
