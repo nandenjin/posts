@@ -7,7 +7,7 @@
 - [📺️ オンデマンド映像](https://www.youtube.com/watch?v=M3mkpMWoiZU)
 - [💻️ スライド](https://docs.google.com/presentation/d/1GFvCB3FIt3LSgiZ5_7fKxCuurWGR1UqttInmqZfhQ8c/edit)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M3mkpMWoiZU?si=m3n6whndR0IdXZzB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M3mkpMWoiZU?si=m3n6whndR0IdXZzB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16 / 9"></iframe>
 
 </aside>
 
@@ -59,7 +59,7 @@
 
 言葉によって示すのは「目に見えないもの」である、ということもあります。オランダの造形作家であるマーク・マンダースの展示「[マーク・マンダースの不在](https://www.mot-art-museum.jp/exhibitions/mark-manders/)」（2021）では、マンダースの、まるで粘土で作られたような大きな彫像が工事現場のようにビニールで覆われた会場に並びました。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zlt1g2Sn28Q" title="「マーク・マンダース —マーク・マンダースの不在」展（展示風景）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zlt1g2Sn28Q" title="「マーク・マンダース —マーク・マンダースの不在」展（展示風景）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16 / 9"></iframe>
 
 彼は自分の作品のことを「建物としての自画像」と呼び、その言葉を使って作品について次のように述べています。
 
@@ -71,7 +71,7 @@
 
 専門家ならではの視点を伝えるということもあります。[人形劇団ひぽぽたあむ](https://hipopotaamu.com/)は人形の中に直接手を入れて操作する「片手遣い人形」というものを用いる人形劇団です。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UF-AfKnLQFk?si=fg3foF0zJCHljymj" title="人形劇団ひぽぽたあむ『チップとチョコ』" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UF-AfKnLQFk?si=fg3foF0zJCHljymj" title="人形劇団ひぽぽたあむ『チップとチョコ』" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16 / 9"></iframe>
 
 人形劇では複雑なカラクリや仕掛けがある人形が高度でやはり目を引きがちなのですが、この劇団の代表はこの非常にシンプルな人形の魅力を次のように語っています。
 
@@ -95,7 +95,7 @@
 - スケッチをしてみる
 - 時間を置いてからもう一度鑑賞してみる
 
-「スケッチをする」というのは、美術が専門でない人にとってはあまり馴染みがないかもしれません。これはなにも完成品が上手である必要はなくて、形を写し取る過程で細部を見る、ということに意味があります。画家の山口晃はアーティゾン美術館での展示「[ここへきて やむに止まれぬ サンサシオン](https://www.artizon.museum/exhibition/detail/558)」（2023）の際に美術館と交渉をし、館内の他の展示も含めて全館すべてスケッチができるようにした上で、「作品を深く見るためにぜひスケッチをしてみてほしい」と呼びかけていたことが印象に残っています。
+「スケッチをする」というのは、美術が専門でない人にとってはあまり馴染みがないかもしれません。これはなにも完成品が上手である必要はなくて、形を写し取る過程で細部を見る、ということに意味があります。画家の山口晃はアーティゾン美術館での展示「[ここへきて やむに止まれぬ サンサシオン](https://www.artizon.museum/exhibition/detail/558)」（2023）の際に美術館と交渉をし、館内の他の展示も含めて全館すべてスケッチができるようにした上で、「作品を深く見るためにぜひスケッチをしてみてほしい」と呼びかけていました。
 
 ### 2️⃣ 個性を探す
 
