@@ -22,7 +22,7 @@
   "license": "MIT",
   "devDependencies": {
     "lint-staged": "16.4.0",
-    "prettier": "3.9.3",
+    "prettier": "3.9.4",
     "simple-git-hooks": "2.13.1",
     "vitepress": "1.6.4"
   },
